@@ -19,7 +19,7 @@ Finally, there is some misinformation and confusion about what heart attacks and
 
 Goals: To create better access to AEDs in an emergency, educate people about heart attacks and cardiac arrest, and make it easier for people to register their AED.
 
-# What the app does:
+# What the app does
 Finds the location of nearby AEDs, displays them on a map
 Spreads awareness about the symptoms of heart attack & cardiac arrest
 Better prepares people for crisis situations
